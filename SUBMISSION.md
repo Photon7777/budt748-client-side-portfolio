@@ -5,6 +5,7 @@
 - Live website: https://photon7777.github.io/budt748-client-side-portfolio/
 - GitHub repository: https://github.com/Photon7777/budt748-client-side-portfolio
 - Figma design: https://www.figma.com/design/Pjb8gwbGaZ4U3TdcXIVA6c
+- Editable Figma artboard exports: `assets/figma-exports/`
 
 ## Screenshots
 
